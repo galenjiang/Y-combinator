@@ -1,2 +1,2 @@
 # Y-combinator
-Hello functional javascript!
+Have Fun
